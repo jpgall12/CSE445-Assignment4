@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="https://jpgall12.github.io/CSE445-Assignment4" xmlns="https://jpgall12.github.io/CSE445-Assignment4" elementFormDefault="qualified">
 	<xs:element name ="NationalParks" xmlns:xs  ="http://www.w3.org/2001/XMLSchema">
 		<xs:complexType>
 			<xs:sequence>
